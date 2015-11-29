@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OneSeventeen Photography]]></title>
+        <description><![CDATA[OneSeventeen Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Nov 2015 09:08:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="It&apos;s the weekend everyone&excl; &num;TGIF This guy knows how to relax when the working day is done&period; What are your usual ways of relaxing at the end of the day&quest; If you know the guy in this shot please let him know so I can give him a free print of this image&comma; he was after all the perfect model haha&period;" src="https://scontent.xx.fbcdn.net/hphotos-xap1/t31.0-0/p480x480/12265837_484986991683249_1876422043077627850_o.jpg">]]></description>
+            <link>https://www.facebook.com/OneSeventeenPhotographyAU/photos/a.351314951717121.1073741829.348752675306682/484986991683249/?type=3</link>
+            <guid isPermaLink="false">7121a1d4-f806-4be4-b74c-36c3c14efd54</guid>
+            <pubDate>Sun, 29 Nov 2015 09:08:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
