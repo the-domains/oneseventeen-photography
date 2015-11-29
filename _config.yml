@@ -1,6 +1,6 @@
 name: OneSeventeen Photography
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25587
 typography_spectrum: 0.31227
 title: OneSeventeen Photography
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.31880524032749236
-  lightness: 0.7496063928119838
-  saturation: 0.880392471794039
-  rhythmicContrast: 0.7829724235925823
+    - '#000000'
+    - '#5b4e7a'
+    - '#fff6ef'
+    - '#ff979e'
+    - '#bfb4da'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
